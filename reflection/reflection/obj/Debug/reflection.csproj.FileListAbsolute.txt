@@ -1,0 +1,8 @@
+F:\Day - 19\reflection\reflection\bin\Debug\reflection.exe.config
+F:\Day - 19\reflection\reflection\bin\Debug\reflection.exe
+F:\Day - 19\reflection\reflection\bin\Debug\reflection.pdb
+F:\Day - 19\reflection\reflection\obj\Debug\reflection.csproj.AssemblyReference.cache
+F:\Day - 19\reflection\reflection\obj\Debug\reflection.csproj.SuggestedBindingRedirects.cache
+F:\Day - 19\reflection\reflection\obj\Debug\reflection.csproj.CoreCompileInputs.cache
+F:\Day - 19\reflection\reflection\obj\Debug\reflection.exe
+F:\Day - 19\reflection\reflection\obj\Debug\reflection.pdb
